@@ -1,8 +1,5 @@
 # 🌌 Orion Hashimoto
 
-[![Follow on GitHub](https://img.shields.io/github/followers/adamant-al?label=Follow&style=flat-square&color=2e7eed)](https://github.com/adamant-al?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Adamant-im/adamant?label=⭐%20Stars&style=flat-square&color=2e7eed)](https://github.com/Adamant-im/adamant/stargazers)
-[![License](https://img.shields.io/github/license/Adamant-im/adamant?style=flat-square&color=ed5270)](https://github.com/Adamant-im/adamant/blob/master/LICENSE)
 [![Validator](https://img.shields.io/badge/validator-active-3dd197?style=flat-square)](https://explorer.adamant.im/delegateMonitor)
 
 ⭐️ *Let’s build unstoppable Web3 together.*  
